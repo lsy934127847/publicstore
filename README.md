@@ -1,0 +1,2 @@
+# publicstore
+git-publicstore-syudy
